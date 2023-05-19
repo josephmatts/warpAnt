@@ -15,7 +15,7 @@ function setup() {
 }
 
 function draw() {
-  let c = color(255,248,235);
+  let c = color(255);
   background(c);
   
   for(let i = 0; i < particles.length; i ++) {
