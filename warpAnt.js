@@ -5,7 +5,7 @@ let res = 8;
 let img;
 
 function preload() {
-  img = loadImage("/ant.png");  
+  img = loadImage("ant.png");  
 }
 
 function setup() {
